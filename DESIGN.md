@@ -157,7 +157,7 @@ matters more than 0.000011 of practice.
 - `repo/` — packaged entry: main.py (direct-graded 0.125709 after
   the final edit, 2 runs byte-identical, ~0.17 s/case),
   README.md (3 live badges), LICENSE (MIT + SPDX), DESIGN.md,
-  .makefun/owner.json. Commit <SHA>, pushed, GitHub About set
-  (homepage + makefun topic).
+  .makefun/owner.json. Commit bcd0edd876adfcfc8b1a098aad3356d89463a5b4,
+  pushed, GitHub About set (homepage + makefun topic).
 - v1–v23 dirs untouched. No submission, no recording started
   (transcript bundles only, as briefed).
