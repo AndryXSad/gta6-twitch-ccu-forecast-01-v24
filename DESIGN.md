@@ -154,8 +154,8 @@ matters more than 0.000011 of practice.
   0.125720; `work/main24-base.py` — the 2c base with no offsets,
   direct-graded 0.126614
 - Kit: `kit/` (RULES.txt read fully; kit.zip = downloaded kit)
-- `repo/` — packaged entry: main.py (direct-graded 0.125709 after
-  the final edit, 2 runs byte-identical, ~0.17 s/case),
+- `repo/` — packaged entry: main.py (direct-graded 0.125709 after the final edit
+  (graded twice, same score both times), ~0.17 s/case),
   README.md (3 live badges), LICENSE (MIT + SPDX), DESIGN.md,
   .makefun/owner.json. Commit bcd0edd876adfcfc8b1a098aad3356d89463a5b4,
   pushed, GitHub About set (homepage + makefun topic).
